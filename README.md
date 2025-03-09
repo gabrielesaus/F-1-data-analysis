@@ -23,12 +23,10 @@ The dataset used is publicly available on **Kaggle**:
 - **Excel/CSV**: Data cleaning (if applicable)
 
 
-## Dashboard Preview
+## Visualizations
 ---
 ![Drivers](https://github.com/gabrielesaus/portfolio/blob/main/Drivers.png)
-![Teams](https://github.com/gabrielesaus/portfolio/blob/main/Drivers.png)
-
-
+![Teams](https://github.com/gabrielesaus/portfolio/blob/main/Teams.png)
 
 ### Key Insights
 - **Race Winners & Team Performance:** Analyzing the most successful drivers and teams.
@@ -36,18 +34,14 @@ The dataset used is publicly available on **Kaggle**:
 - **Season Trends:** Understanding how race dynamics have evolved over the years.
 - **Driver & Constructor Standings:** Interactive comparison of performance.
 
-
-## Dashboard Preview
-![Formula 1 Dashboard Screenshot](visuals/f1_dashboard_preview.png)
-
-
-### 🔢 Data Used:
-- Race results
-- Driver statistics
-- Constructor standings
-- Circuit information
-- Lap times & pit stops
-
+### Data Used:
+- Results
+- Circuits
+- Constructors
+- Drivers
+- Qualifying
+- Races
+- Status
 
 ## 📌 How to Use
 1. Download the `.pbix` file from this repo: [📥 formula1_analysis.pbix](pbix/formula1_analysis.pbix)
