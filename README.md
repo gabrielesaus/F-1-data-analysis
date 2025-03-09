@@ -25,7 +25,7 @@ The dataset used is publicly available on **Kaggle**:
 
 ## Dashboard Preview
 --
-![Formula 1 Dashboard Screenshot](visuals/f1_dashboard_preview.png)
+![Drivers](visuals/Drivers.png)
 
 
 
