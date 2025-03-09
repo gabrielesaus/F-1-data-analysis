@@ -60,7 +60,7 @@ The dataset used is publicly available on **Kaggle**:
 
 ## Next Steps & Improvements
 
-- There may be errors in the "duration" columns. Errors occur due to different locale settings. This location would be relevant in the future only when sharing reports not via PowerBI cloud, but when sending .pbix files AND only if different computers have different settings (this does not happen often in companies).
+- There may be errors in the "duration" columns. Errors occur due to different locale settings. This location would be relevant in the future only when sharing reports not via PowerBI cloud, but when sending .pbix files and only if different computers have different settings (this does not happen often in companies).
 - Add Circuit-Specific Insights (Weather, Lap Records, Track Characteristics)
 - Optimize for Mobile View in Power BI Service
 - Enhancing dashboard with **predictive analytics** (e.g., Machine Learning)  
