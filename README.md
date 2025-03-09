@@ -1,21 +1,22 @@
 # F-1 analysis
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Key insights](#key-insights)
-
-### Project Overview
+## Introduction
 ---
 
-This project analyzes Formula 1 World Championship data from **1950 to 2024** using **Power BI**. The goal is to explore historical trends, identify top-performing drivers and teams, and visualize key race statistics.
+This project focuses on building an interactive and comprehensive Formula 1 data visualization dashboard using Microsoft Power BI. The dashboard analyzes key metrics related to races, drivers, and teams and visualize key race statistics from 1950 to 2024[, offering insights into race wins, championship trends, and performance across different seasons and circuits.]
 
+## Project Overview
+---
 
 ### Data Sources
 
 The dataset used is publicly available on **Kaggle**:  
-[📥 Formula 1 World Championship Dataset (1950-2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+[Formula 1 World Championship (1950-2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+
+
+
+
+
 
 
 ### Key Insights
