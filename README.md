@@ -63,9 +63,10 @@ The dataset used is publicly available on **Kaggle**:
 
 ## Next Steps & Improvements
 
-🔹 Adding **real-time data** using an API  
-🔹 Enhancing dashboard with **predictive analytics** (e.g., Machine Learning)  
-🔹 Building a **Tableau version** for comparison  
+- There may be errors in the "duration" columns. Errors occur due to different locale settings. This location would be relevant in the future only when sharing reports not via PowerBI cloud, but when sending .pbix files AND only if different computers have different settings (this does not happen often in companies).
+- Add Circuit-Specific Insights (Weather, Lap Records, Track Characteristics)
+- Optimize for Mobile View in Power BI Service
+- Enhancing dashboard with **predictive analytics** (e.g., Machine Learning)  
 
 ## Connect with Me
 
@@ -77,5 +78,3 @@ The dataset used is publicly available on **Kaggle**:
 
 1. [Microsoft Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 2. [Formula 1 World Championship (1950-202ė) on Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
-3. [Wikipedia - List of Formula One World Drivers' Champions](https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers%27_Champions)
-4. 
