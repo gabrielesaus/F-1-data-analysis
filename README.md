@@ -1,12 +1,10 @@
-# F-1 analysis
+# F-1 data analysis 1950 - 2024
 
 ## Introduction
-
 
 This project focuses on building an interactive and comprehensive Formula 1 data visualization dashboard using Microsoft Power BI. The dashboard analyzes key metrics related to races, drivers, and teams and visualize key race statistics from 1950 to 2024.
 
 ## Project Overview
-
 
 ### Purpose
 
@@ -20,7 +18,6 @@ The dataset used is publicly available on **Kaggle**:
 ### Tools Used
 - **Power BI**: Data visualization & dashboard creation
 - **DAX & Power Query**: Data transformation and calculated measures
-- **Excel/CSV**: Data cleaning (if applicable)
 
 ## Visualizations
 
@@ -36,9 +33,10 @@ The dataset used is publicly available on **Kaggle**:
 
 ### Key Insights
 - **Race Winners & Team Performance:** Analyzing the most successful drivers and teams.
-- **Track Insights:** Identifying circuits with the most races and fastest lap times.
-- **Season Trends:** Understanding how race dynamics have evolved over the years.
-- **Driver & Constructor Standings:** Interactive comparison of performance.
+- **Track Insights:** You can explore the data by selecting the circuit that interests you the most.
+- **Season Trends:** Understanding how drivers' and teams' results have changed over the years.
+- **Reasons for not finishing:** Finding out the top reasons for not finishing races. 
+- **Drivers Standings:** Interactive data preview for a choosen driver.
 
 ### Data Used:
 - Results
@@ -49,11 +47,10 @@ The dataset used is publicly available on **Kaggle**:
 - Races
 - Status
 
-
 ## How to Use
 
 1. **Download Power BI Desktop**: [Download Link](https://powerbi.microsoft.com/en-us/desktop/)
-2. **Download and Unzip the Project Files**
+2. **Download the Project File**: [Formula 1_Projec](https://github.com/gabrielesaus/portfolio/blob/main/Formula%201_Project.pbix)
 3. **Open the Power BI File**:
     - Locate and open `Formula 1_Project.pbix` in Power BI Desktop.
 4. **Resolve Dataset Errors (if any)**:
@@ -72,7 +69,6 @@ The dataset used is publicly available on **Kaggle**:
 
 📧 Email: gabriele.saus@gmail.com  
 💼 LinkedIn: [Gabriele Sauspreskyte](https://www.linkedin.com/in/gabriele-saus/)  
-
 
 ## References
 
