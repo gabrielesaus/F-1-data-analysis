@@ -24,13 +24,6 @@ The dataset used is publicly available on **Kaggle**:
 ![Drivers](https://github.com/gabrielesaus/portfolio/blob/main/Drivers.png)
 ![Teams](https://github.com/gabrielesaus/portfolio/blob/main/Teams.png)
 
-### Key Visuals
-| Dashboard Page | Preview |
-|---------------|---------|
-| **Race Results & Standings** | ![Results Screenshot](visuals/f1_results.png) |
-| **Driver Performance** | ![Drivers Screenshot](visuals/f1_drivers.png) |
-| **Circuit Insights** | ![Circuits Screenshot](visuals/f1_circuits.png) |
-
 ### Key Insights
 - **Race Winners & Team Performance:** Analyzing the most successful drivers and teams.
 - **Track Insights:** You can explore the data by selecting the circuit that interests you the most.
