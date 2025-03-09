@@ -22,11 +22,17 @@ The dataset used is publicly available on **Kaggle**:
 - **DAX & Power Query**: Data transformation and calculated measures
 - **Excel/CSV**: Data cleaning (if applicable)
 
-
 ## Visualizations
 ---
 ![Drivers](https://github.com/gabrielesaus/portfolio/blob/main/Drivers.png)
 ![Teams](https://github.com/gabrielesaus/portfolio/blob/main/Teams.png)
+
+### Key Visuals
+| Dashboard Page | Preview |
+|---------------|---------|
+| **Race Results & Standings** | ![Results Screenshot](visuals/f1_results.png) |
+| **Driver Performance** | ![Drivers Screenshot](visuals/f1_drivers.png) |
+| **Circuit Insights** | ![Circuits Screenshot](visuals/f1_circuits.png) |
 
 ### Key Insights
 - **Race Winners & Team Performance:** Analyzing the most successful drivers and teams.
@@ -43,25 +49,28 @@ The dataset used is publicly available on **Kaggle**:
 - Races
 - Status
 
-## 📌 How to Use
-1. Download the `.pbix` file from this repo: [📥 formula1_analysis.pbix](pbix/formula1_analysis.pbix)
-2. Open it in **Power BI Desktop**
-3. Ensure dataset links are working (if reloading data)
-4. Explore interactive visuals & insights
 
-## 🏆 Key Visuals
-| Dashboard Page | Preview |
-|---------------|---------|
-| **Race Results & Standings** | ![Results Screenshot](visuals/f1_results.png) |
-| **Driver Performance** | ![Drivers Screenshot](visuals/f1_drivers.png) |
-| **Circuit Insights** | ![Circuits Screenshot](visuals/f1_circuits.png) |
+## How to Use
+---
+1. **Download Power BI Desktop**: [Download Link](https://powerbi.microsoft.com/en-us/desktop/)
+2. **Download and Unzip the Project Files**
+3. **Open the Power BI File**:
+    - Locate and open `F1_dashboard.pbix` in Power BI Desktop.
+4. **Resolve Dataset Errors (if any)**:
+    - Go to `Transform Data` -> `Data Source Settings`.
+    - Change the data source path to the correct dataset files in your local system.
+    - Apply changes and refresh the dataset.
 
-## 📢 Next Steps & Improvements
+
+
+## Next Steps & Improvements
+---
 🔹 Adding **real-time data** using an API  
 🔹 Enhancing dashboard with **predictive analytics** (e.g., Machine Learning)  
 🔹 Building a **Tableau version** for comparison  
 
-## 📬 Connect with Me
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## Connect with Me
+---
+📧 Email: gabriele.saus@gmail.com  
+💼 LinkedIn: [Gabriele Sauspreskyte](https://www.linkedin.com/in/gabriele-saus/)  
+
