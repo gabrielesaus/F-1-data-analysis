@@ -8,7 +8,7 @@ This project focuses on building an interactive and comprehensive Formula 1 data
 
 ### Purpose
 
-The purpose of this project is to analyzes and visualizes Formula 1 race data to uncover trends in race wins, team performance, and key factors affecting results. The interactive dashboard lets users explore ***[win percentages, circuit victories, and how starting positions impact outcomes]***.
+The purpose of this project is to analyzes and visualizes Formula 1 race data to uncover trends in race wins, team performance, and key factors affecting results. The interactive dashboard lets users explore.
 
 ### Data Sources
 
