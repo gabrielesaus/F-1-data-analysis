@@ -24,8 +24,8 @@ The dataset used is publicly available on **Kaggle**:
 
 
 ## Dashboard Preview
---
-![Drivers](visuals/Drivers.png)
+---
+![Drivers](https://github.com/gabrielesaus/portfolio/blob/main/Drivers.png)
 
 
 
