@@ -1,5 +1,12 @@
 # F-1 data analysis 1950 - 2024
 
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Project Overview](#Project-Overview)
+- [Visualizations](#Visualizations)
+- [How to Use](#How-to-Use)
+
 ## Introduction
 
 This project focuses on building an interactive and comprehensive Formula 1 data visualization dashboard using Microsoft Power BI. The dashboard analyzes key metrics related to races, drivers, and teams and visualize key race statistics from 1950 to 2024.
